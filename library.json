@@ -1,0 +1,19 @@
+{
+  "name": "PN532 I2C, SPI, HSU Arduino",
+  "version": "0.0.1",
+  "description": "Forked from Seed Studio PN532 to enable Platformio compatibility",
+  "keywords": "PN532,NFC,Arduino,ESP32",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.co,/vanceb/PN532.git"
+  },
+  "license": "BSD",
+  "homepage": "https://github.org/vanceb/PN532",
+  "frameworks": "Arduino",
+  "platforms": [
+        "atmelavr",
+        "espressif8266",
+        "espressif32"
+  ]
+}
